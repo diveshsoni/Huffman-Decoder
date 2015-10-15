@@ -1,0 +1,19 @@
+1.
+Input:
+11
+a 0101
+as 1000
+fleece 1101
+had 0100
+lamb 00 
+little 011 
+mary 111
+snow 1001
+was 1010
+white 1011 
+whose 1100
+66
+111010001010110001100011001110100010101100110011011010101110001001
+
+Output:
+maryhadalittlelamblittlelamblittlelambmaryhadalittlelambwhosefleecewaswhiteassnow
